@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing page desenvolvida para Barberia.
 
-- [Acesse o projeto finalizado, online](https://ravycarvalhodeveloper.github.io/modern-form/)
+- [Acesse o projeto finalizado, online]([https://ravycarvalhodeveloper.github.io/modern-form/](https://ravycarvalhodeveloper.github.io/landing-page-barbershop/))
 
 ## 🔖 Layout
 
